@@ -5,10 +5,10 @@ import UserProfile from './components/UserProfile';
 function App() {
   return (
     <>
-      <Header />
-      <UserProfile />
+      {/* <Header /> */}
+      {/* <UserProfile /> */}
       <Counter />
-      <Auth />
+      {/* <Auth /> */}
     </>
   );
 }

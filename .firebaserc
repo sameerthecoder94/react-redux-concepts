@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "react-redux-toolkit-projects"
+  },
+  "targets": {
+    "react-redux-toolkit-projects": {
+      "hosting": {
+        "prod": [
+          "react-redux-toolkit-projects"
+        ]
+      }
+    }
+  }
+}
